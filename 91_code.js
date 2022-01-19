@@ -1,5 +1,4 @@
 /*
-https://projecteuler.chat/viewtopic.php?t=1695
 1 8 2-10 3-5 4-11 6-12 7-13 9-14
 I get 353 for x,y <= 9
 => brute-force

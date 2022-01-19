@@ -1,6 +1,4 @@
 /* 
-https://projecteuler.chat/viewtopic.php?t=3104
-
 01 04 09 16 25 36 49 64 81 => 01 04 09 16 25 36 49 81 => 01 04 06 16 25 36 46 81
 
 1) has a DIFFERENT digit (0 to 9) written on it

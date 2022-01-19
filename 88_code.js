@@ -1,7 +1,4 @@
 /*
-https://projecteuler.chat/viewtopic.php?t=922
-https://projecteuler.chat/viewtopic.php?t=3305
-
 https://math.stackexchange.com/questions/629406/
 https://stackoverflow.com/questions/8558292/
 

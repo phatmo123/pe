@@ -1,8 +1,3 @@
-/*
-https://projecteuler.chat/viewtopic.php?t=1163
-https://projecteuler.chat/viewtopic.php?t=2900
-*/
-
 function randomInt(max) {
     if (typeof max == 'undefined') max = 1/0;
     return 1 + Math.floor(Math.random() * max);
