@@ -1,6 +1,4 @@
 /*
-https://projecteuler.chat/viewtopic.php?t=2508
-
 http://mathworld.wolfram.com/TriangleInterior.html
 */
 function det(u, v) {

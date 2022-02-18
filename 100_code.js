@@ -1,6 +1,4 @@
 /*
-https://projecteuler.chat/viewtopic.php?t=2859
-
 2a2 - 2a = a2 + 2ab + b2 - a - b
 a2-a=2ab+b2-b
 a2-a-2ab-b2+b=0

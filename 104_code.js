@@ -1,5 +1,4 @@
 /*
-https://projecteuler.chat/viewtopic.php?t=1975
 brute-force => slow
 
 */

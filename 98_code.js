@@ -1,8 +1,3 @@
-/*
-https://projecteuler.chat/viewtopic.php?t=2463
-
-*/
-
 t0 = performance.now();
 w1 = w.map(u => u.split('').sort().join(''));
 a = {};
