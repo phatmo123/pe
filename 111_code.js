@@ -1,7 +1,3 @@
-/*
-https://projecteuler.chat/viewtopic.php?t=3481
-
-*/
 n = 10;
 s = 0;
 t0 = performance.now();
